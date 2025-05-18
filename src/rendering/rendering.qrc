@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+      <file>shaders/psxmodel.vert</file>
+      <file>shaders/psxmodel.frag</file>
+    </qresource>
+</RCC>

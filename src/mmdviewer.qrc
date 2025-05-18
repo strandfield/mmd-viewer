@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+      <file>shaders/axes.frag</file>
+      <file>shaders/axes.vert</file>
+      <file>shaders/vertexcolor.frag</file>
+      <file>shaders/vertexcolor.vert</file>
+    </qresource>
+</RCC>
